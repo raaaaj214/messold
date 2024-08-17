@@ -1,0 +1,50 @@
+[
+  {
+    "name": "RAKHI",
+    "image": "../assets/rakhi.avif"
+  },
+  {
+    "name": "EVIL EYE",
+    "image": "../assets/evil eye.avif"
+  },
+  {
+    "name": "POOJA THALI",
+    "image": "../assets/pooja thali.webp"
+  },
+  {
+    "name": "ROSE QUARTZ",
+    "image": "../assets/rose quartz.avif"
+  },
+  {
+    "name": "URLIS",
+    "image": "../assets/urlis.webp"
+  },
+  {
+    "name": "PYRITE",
+    "image": "../assets/pyrite.webp"
+  },
+  {
+    "name": "CITRINE",
+    "image": "../assets/citrine.webp"
+  },
+  {
+    "name": "CHANTING BOX",
+    "image": "../assets/chanting box.avif"
+  },
+  {
+    "name": "AMETHYST",
+    "image": "../assets/amethyst.webp"
+  },
+  {
+    "name": "AURA CLEANSING",
+    "image": "../assets/aura cleansing.webp"
+  },
+  {
+    "name": "CLEAR QUARTZ",
+    "image": "../assets/clear quartz.avif"
+  },
+  {
+    "name": "MOONSTONE",
+    "image": "../assets/moonstone.webp"
+  }
+]
